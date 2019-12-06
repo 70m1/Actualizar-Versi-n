@@ -1,0 +1,7 @@
+ Accion
+Drama
+Ficcion
+Suspenso
+ Guerra
+  Pelea
+Romance

@@ -1,0 +1,5 @@
+Rambo 1 Accion 20
+Rambo 2 Accion 45
+300 Guerra 30
+Stars Wars Ficcion 48
+Rocky  Pelea 25
